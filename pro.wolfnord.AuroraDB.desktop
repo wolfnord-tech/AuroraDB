@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=pro.wolfnord.AuroraDB
+Exec=/usr/bin/pro.wolfnord.AuroraDB
+Name=AuroraDB
+Name[ru]=База данных Авроры
+
+[X-Application]
+Permissions=
+OrganizationName=pro.wolfnord
+ApplicationName=AuroraDB
+ExecDBus=/usr/bin/pro.wolfnord.AuroraDB
